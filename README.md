@@ -1,9 +1,5 @@
 - 👋 Hi, I’m @abola2
-- 👀 I’m interested learning useless things
-- 🌱 I’m currently learning ... Nothing
-- 📫 
+- 👀 I’m interested learning C# and Java
+- 🌱 I’m currently learning C#
+- 📫 Discord: Aapo#3524
 
-<!---
-abola2/abola2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
