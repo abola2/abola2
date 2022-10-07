@@ -6,5 +6,5 @@
 ---
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?abola2
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abola2&theme=dark&hide_border=true&border_radius=3.9&background=B4BCDD)](https://git.io/streak-stats)
 
