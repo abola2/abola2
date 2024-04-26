@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abola2
+# Hi, I’m @abola2
 - 👀 I’m interested learning Kotlin, C# and modern web develoment
 - 🌱 I’m currently learning Java, Kotlin, C# and Web develoment
 - 📫 Discord: ab0la
